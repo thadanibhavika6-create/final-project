@@ -54,6 +54,9 @@ Using **NumPy** for random-walk price simulation and statistics, **Pandas** for 
 It's built as a hands-on demonstration of core quantitative finance and data analysis concepts — a great reference for anyone learning how `pandas`, `numpy`, `matplotlib`, and `seaborn` come together in a real time-series workflow.
 
 > 💡 No API keys, no external data downloads required — the dataset is simulated locally using a reproducible random seed, so results are consistent every run.
+>
+> <img width="1536" height="1024" alt="ChatGPT Image Aug 27, 2026, 02_22_13 PM" src="https://github.com/user-attachments/assets/ade8d77c-c6da-4292-bd71-c66647fa5ef9" />
+
 
 ---
 
@@ -218,6 +221,8 @@ Each stage is independent, so indicators or charts can be swapped out or extende
 
 > Add your own generated chart screenshots inside an `assets/` folder, then reference them like:
 > `![Price Chart](assets/price_chart.png)`
+
+<img width="1536" height="1024" alt="ChatGPT Image Aug 27, 2026, 02_11_20 PM" src="https://github.com/user-attachments/assets/6b6c63b6-7652-48b9-8324-2eceb9bee889" />
 
 ---
 
